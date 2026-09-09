@@ -1,1 +1,1 @@
-# Database-design-for-an-E-commerce-Store-Cornershop
+# Database design for an E-Commerce Store - Cornershop

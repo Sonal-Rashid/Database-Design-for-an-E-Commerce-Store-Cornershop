@@ -13,6 +13,10 @@ This project demonstrates:
 
 ## 🗂️ Database Schema
 
+<p align="center">
+  <img src="images/overall_performance.png" alt="Overall Performance">
+</p>
+
 ## 🔄 Project Workflow
 ### Step 1: Database and Table Creation
 The Cornershop database and the following tables were created

@@ -14,7 +14,7 @@ This project demonstrates:
 ## 🗂️ Database Schema
 
 <p align="center">
-  <img src="images/overall_performance.png" alt="Overall Performance">
+  <img src="images/cornershop_er_diagram.png" alt="Cornershop ER Diagram">
 </p>
 
 ## 🔄 Project Workflow

@@ -11,12 +11,6 @@ This project demonstrates:
 - Realistic demo data, 
 - Business-oriented SQL analysis
 
-## 🗂️ Database Schema
-
-<p align="center">
-  <img src="images/cornershop_er_diagram.png" alt="Cornershop ER Diagram">
-</p>
-
 ## 🔄 Project Workflow
 ### Step 1: Database and Table Creation
 The Cornershop database and the following tables were created
